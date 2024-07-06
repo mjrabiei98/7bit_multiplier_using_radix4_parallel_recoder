@@ -1,0 +1,202 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 2\Computer Arithmatic\CA\CA4\code\q1
+vFullAdder
+Z1 !s100 _8Fc?C16GGkMFH12DzYm13
+Z2 IL3g2oG`XdTY81Pf68oco20
+Z3 VcII[::[2R5ZmPZ9a@hG292
+Z4 dC:\Users\mohammad javad\Desktop\uni\arshad tehran university\term 2\Computer Arithmatic\CA\CA4\code\q3
+Z5 w1720190625
+Z6 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/parallel_rec_mult.v
+Z7 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/parallel_rec_mult.v
+L0 21
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s108 1720190628.025000
+Z10 !s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/parallel_rec_mult.v|
+Z11 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/parallel_rec_mult.v|
+Z12 o-work work -O0
+Z13 n@full@adder
+!i10b 1
+!s85 0
+!s101 -O0
+vmuliplicand_gen
+Z14 !s100 S^bfF1W6e94?8>a_Z3P:U0
+Z15 IPU79m`27d`hR[mBi?kbf^2
+Z16 VH>RRHXInCTF9:8V<b`66h2
+R4
+R5
+R6
+R7
+L0 9
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vmultiplier
+Z17 Idf7FRIi[CkGaF]9gYG=6m0
+Z18 VGP=;TD]^Kg?8Q4EN;biOZ1
+R4
+R5
+R6
+R7
+L0 62
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+Z19 !s100 @g>8W4SMzc`ClUYWcB8H:3
+!s85 0
+!s101 -O0
+vrecoder
+Z20 !s100 jZabF:HVHMINBLjTSlP9k1
+Z21 IZ`23nG1WMjbB_JVZoJD]d2
+Z22 Vz>MoJ_H>mR^2XK@beYRD20
+R4
+R5
+R6
+R7
+L0 1
+R8
+r1
+31
+R9
+R10
+R11
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vRippleCarryAdder
+Z23 !s100 aIo^TZKg10_<CZ3TDnFRb1
+Z24 IE_W<[jFKoz[Z6D5UW`D]n2
+Z25 Vi3emE4dl]`WkK0XN]D61l1
+R4
+R5
+R6
+R7
+L0 34
+R8
+r1
+31
+R9
+R10
+R11
+R12
+Z26 n@ripple@carry@adder
+!i10b 1
+!s85 0
+!s101 -O0
+Eserial_radix4_recoder_datapath
+Z27 w1720159639
+Z28 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z29 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z30 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z31 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R4
+Z32 8C:/Users/mohammad javad/Downloads/Telegram Desktop/datapath.vhd
+Z33 FC:/Users/mohammad javad/Downloads/Telegram Desktop/datapath.vhd
+l0
+L6
+Z34 VQ]1F9`h0Xg@kliVUANbnG1
+Z35 OV;C;10.1d;51
+32
+Z36 o-work work -2002 -explicit -O0
+Z37 tExplicit 1
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/mohammad javad/Downloads/Telegram Desktop/datapath.vhd|
+Z39 !s100 7?g`lWS_9?eHJ0IZ^kZJ10
+Z40 !s108 1720159737.902000
+Z41 !s107 C:/Users/mohammad javad/Downloads/Telegram Desktop/datapath.vhd|
+!i10b 1
+Eshiftreg
+Z42 w1720159946
+R28
+R29
+R30
+R31
+R4
+R32
+R33
+l0
+L51
+Z43 VAiL3a`eYJf:>Y[1z@Hf8T2
+R35
+32
+Z44 !s108 1720159948.521000
+R38
+R41
+R36
+R37
+Z45 !s100 Iogno0M3c^kZ4zQ5cf[kB1
+!i10b 1
+vtestbench
+!i10b 1
+Z46 !s100 [g1jODIL?;>@>W0c<B1lb1
+Z47 IG6`I<ck;TE7QgFmm@ab7<3
+Z48 VhGfW:390DM[oDMzegDH9`2
+R4
+Z49 w1720170204
+Z50 8C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/testbench.v
+Z51 FC:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/testbench.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1720190628.088000
+!s107 C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/testbench.v|
+Z52 !s90 -reportprogress|300|-work|work|C:/Users/mohammad javad/Desktop/uni/arshad tehran university/term 2/Computer Arithmatic/CA/CA4/code/q3/testbench.v|
+!s101 -O0
+R12
+Ex_register
+R42
+R28
+R29
+R30
+R31
+R4
+R32
+R33
+l0
+L11
+Z53 V84R1AN7NfFV5z;2A=PMlY3
+R35
+32
+R44
+R38
+R41
+R36
+R37
+Z54 !s100 TX<Bi2]Ti9QG`7`B3NjLT2
+!i10b 1
+Abehavioral
+R28
+R29
+R30
+R31
+Z55 DEx4 work 10 x_register 0 22 84R1AN7NfFV5z;2A=PMlY3
+l23
+L22
+Z56 V]OadO=427B1MJJ2TmHSiD2
+R35
+32
+R44
+R38
+R41
+R36
+R37
+Z57 !s100 Z6W5@fJ@P>ae02M7N^NiG1
+!i10b 1
